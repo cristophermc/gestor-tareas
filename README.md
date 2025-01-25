@@ -4,3 +4,8 @@ gestor de tareas básico para aprender el manejo de creación de archivos, enrut
 ## Lenguaje
 
 Creado en lenguaje Python v3.
+
+## Uso
+
+Desde la terminal o CMD:
+`python "Ejercicio 001\Ejercicio 001.py`
